@@ -1,0 +1,12 @@
+*.dat
+# Ignore virtual environments
+venv/
+venv310/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore editor + logs
+.vscode/
+logs/
